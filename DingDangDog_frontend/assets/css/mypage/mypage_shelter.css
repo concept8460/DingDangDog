@@ -1,12 +1,24 @@
 
 *{ margin:0; padding:0;box-sizing:border-box;}
 
+header{
+  background-color: #F47C2A;
+  width: 1440px;
+  height: 110px;
+}
+footer{
+  background-color: black;
+  width: 1440px;
+  height: 110px;
+}
+
 body{
   width:1440px;
   margin:0 auto;
   background:#ffff;
   font-family: "BM HANNA_TTF";
 }
+
 
 
 .mypage-shelter{
