@@ -110,15 +110,10 @@
 }
 
 /* footer 오른쪽 : 로고 이미지 */
-.f-logo-placeholder {
-  width: 80px;
-  height: 80px;
-  background-color: #F47C2A;
-  border-radius: 50%;
+.f-right-menu {
+  width: 150px;
+  height: 150px;
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #fff;
-  font-size: 14px;
-  font-weight: bold;
 }
